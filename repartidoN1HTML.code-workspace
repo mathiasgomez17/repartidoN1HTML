@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../img"
+		},
+		{
+			"path": "../imagenmetegol"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "repartidoN1HTML"
+	}
+}
